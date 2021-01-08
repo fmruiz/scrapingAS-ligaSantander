@@ -1,0 +1,24 @@
+TABLA DE POSICIONES LA LIGA SANTANDER - 8/1/2021
+           Equipos: Puntos:
+1          Atlético      38
+2       Real Madrid      36
+3         Barcelona      31
+4       R. Sociedad      30
+5        Villarreal      29
+6           Sevilla      27
+7           Granada      24
+8             Celta      23
+9          Athletic      21
+10            Cádiz      20
+11            Betis      20
+12            Eibar      19
+13          Levante      18
+14           Alavés      18
+15  Real Valladolid      18
+16           Getafe      17
+17         Valencia      16
+18            Elche      16
+19          Osasuna      14
+20           Huesca      12
+
+
